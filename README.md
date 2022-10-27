@@ -38,7 +38,7 @@
 		xxx.go 此处 gopm.go
 		/Users/xxx/gowork/work/src/gopm.go
 	5、生成可执行文件
-		cd src 
+		cd src or cd bin
 		go install gopm.go
 	6、移动gopm可执行文件
 		与work 并列
