@@ -48,6 +48,6 @@
 	8、cd .. 
 		./gopm
 		clean
-		cleate loc
+		create loc
 		use loc
 ok 基本实现		
